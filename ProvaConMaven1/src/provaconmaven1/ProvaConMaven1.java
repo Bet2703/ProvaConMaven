@@ -17,14 +17,10 @@ public class ProvaConMaven1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("ciao");
-
-        int b=2;
-
         int a=1;
         if(a==1){
             System.out.println("UE");
         }
-
     }
     
 }
