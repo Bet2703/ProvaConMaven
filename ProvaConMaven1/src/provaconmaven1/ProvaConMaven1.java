@@ -24,7 +24,7 @@ public class ProvaConMaven1 {
         if(a==1){
             System.out.println("UE");
         }
-
+        int d=1;
     }
     
 }
