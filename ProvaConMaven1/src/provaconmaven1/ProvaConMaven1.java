@@ -25,6 +25,8 @@ public class ProvaConMaven1 {
             System.out.println("UE");
         }
         int d=1;
+        
+        System.out.println("va?");
     }
     
 }
