@@ -27,6 +27,9 @@ public class ProvaConMaven1 {
         int d=1;
         
         System.out.println("va?");
+        
+        //nello modifica la seguente riga 
+        System.out.println("nello");
     }
     
 }
