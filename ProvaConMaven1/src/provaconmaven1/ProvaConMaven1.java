@@ -24,6 +24,7 @@ public class ProvaConMaven1 {
         if(a==1){
             System.out.println("UE");
         }
+        int miao=0;
         int d=1;
         
         System.out.println("va?");
