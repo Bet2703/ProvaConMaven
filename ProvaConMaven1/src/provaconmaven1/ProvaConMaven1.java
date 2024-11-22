@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -33,6 +34,7 @@ public class ProvaConMaven1 {
         System.out.println("nello okok");
         System.out.println("Non c'è un metodo per modificare ogni volta l'utente?");
         System.out.println("Ho risolto.");
+        System.out.println("Consiglio maestro");
     }
     
 }
