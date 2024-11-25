@@ -39,6 +39,7 @@ public class ProvaConMaven1 {
         int f=0;
         int r=0;
         int f=3;
+        int g=9;
     }
     
 }
