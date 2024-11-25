@@ -37,6 +37,7 @@ public class ProvaConMaven1 {
         System.out.println("Consiglio maestro");
         
         int f=0;
+        int r=0;
     }
     
 }
