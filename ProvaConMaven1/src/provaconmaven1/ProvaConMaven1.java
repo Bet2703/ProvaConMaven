@@ -35,6 +35,8 @@ public class ProvaConMaven1 {
         System.out.println("Non c'è un metodo per modificare ogni volta l'utente?");
         System.out.println("Ho risolto.");
         System.out.println("Consiglio maestro");
+        
+        int f=0;
     }
     
 }
